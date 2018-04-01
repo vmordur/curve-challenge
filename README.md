@@ -1,7 +1,7 @@
 # curve-challenge
-App for Curve tech challenge
+App for Curve's development challenge.
 
-##Usage 
+## Usage 
 The component responsible for the flashing behavior of the result text view is the `FlashingTextView`, which is an abstract class with two different extensions for two different implementations: `RxFlashingTextView` and `HandlerFlashingTextView`.
 
 
